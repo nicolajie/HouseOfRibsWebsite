@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 158" role="img" aria-label="The House of Ribs — Family Restaurant">
+  <defs>
+    <linearGradient id="hor-ember-s" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#D9453B"/>
+      <stop offset=".55" stop-color="#BC252D"/>
+      <stop offset="1" stop-color="#7E1219"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(94 0) scale(1.125)">
+    <rect width="64" height="64" rx="15" fill="url(#hor-ember-s)"/>
+    <g fill="#FFF3E2">
+      <rect x="17" y="13.75" width="30" height="8.5" rx="4.25"/>
+      <circle cx="17" cy="18" r="5.75"/><circle cx="47" cy="18" r="5.75"/>
+      <rect x="15" y="27.75" width="34" height="8.5" rx="4.25"/>
+      <circle cx="15" cy="32" r="5.75"/><circle cx="49" cy="32" r="5.75"/>
+      <rect x="16" y="41.75" width="32" height="8.5" rx="4.25"/>
+      <circle cx="16" cy="46" r="5.75"/><circle cx="48" cy="46" r="5.75"/>
+    </g>
+  </g>
+
+  <g font-family="Archivo, 'Archivo Black', 'Helvetica Neue', Arial, sans-serif"
+     text-anchor="middle" fill="#17120F">
+    <text x="130" y="112" font-size="23" font-weight="800" letter-spacing="-0.3">THE HOUSE OF RIBS</text>
+    <text x="130" y="132" font-size="10" font-weight="600" letter-spacing="4.4" fill="#8C6F5E">FAMILY RESTAURANT</text>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "houseofribs",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["--yes", "serve", "--no-clean-urls", "-l", "4173", "."],
+      "port": 4173
+    }
+  ]
+}

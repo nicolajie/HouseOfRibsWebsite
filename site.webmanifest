@@ -1,0 +1,15 @@
+{
+  "name": "The House of Ribs — Family Restaurant",
+  "short_name": "House of Ribs",
+  "description": "Ribs, flame-grilled steaks, seafood and an all-you-can-eat carvery buffet across Boksburg, Edenvale and Kempton Park.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FBF7F1",
+  "theme_color": "#BC252D",
+  "icons": [
+    { "src": "assets/brand/favicon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/brand/favicon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/brand/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

@@ -1,0 +1,12 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# Dependencies — none today, but keep them out if a build step is ever added
+node_modules/
+
+# Personal Claude Code overrides (.claude/launch.json is committed on purpose)
+.claude/settings.local.json
